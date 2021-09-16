@@ -8,3 +8,4 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+You can find the slides from <https://user2021-rladies-melbourne.netlify.app/#1>
