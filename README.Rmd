@@ -1,0 +1,10 @@
+---
+title: "A remote glimpse into the useR! 2021 conference"
+date: "08/03/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
